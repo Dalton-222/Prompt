@@ -3,7 +3,7 @@
 This project is for training purposes, it is not a complex project.
 But enjoy the project.
 
-![Sample](.github/01.png)
+![Sample](github/01.png)
 
 To Clone the repository:
 ```bash
